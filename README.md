@@ -66,4 +66,4 @@ This learning plan is designed for an intermediate Python developer looking to r
 Aim to spend 2-3 hours each day studying and practicing the concepts outlined in this plan.
 
 ## Conclusion
-This 60-day plan provides a structured approach to enhancing your Python development skills and learning modern software development concepts. Adjust the pace as needed and focus on areas that are most relevant to your goals.
+This 100-day plan provides a structured approach to enhancing your Python development skills and learning modern software development concepts. Adjust the pace as needed and focus on areas that are most relevant to your goals.
